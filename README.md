@@ -1,72 +1,183 @@
-### Portfolio
-<p>This is the folder that contains valid and relevant information about me.
+<a name="readme-top"></a>
+
+  <img src="https://th.bing.com/th?id=OIP.lP92RJWUeD2vaJdx5kw_qgHaEL&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Portfolio_Project</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Portfolio_project] <a name="about-project"></a>
+
+This is the folder that contains valid and relevant information about me.
 It show-case my achievements as a software Developer , a programmer and a motivated tech machine.
 Something to be noted is that this doesn't however show all my hidden strenths like grit, resilience..
-</p>
 
-### Built With
+**[Portfolio_project]** is a project to showcase my achievements, future expections as a software engineer
 
-<b>Tech Stack</b>
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
+<li>linters</li>
 </ul>
 
-### Key features
-<ul>
-<li>User Friendly and Simple</li>
-<li>HTML used as a structure and CSS used for presentation</li>
-<li>CSS provided the colour and the display features shown</li>
-</ul>
+### Key Features <a name="key-features"></a>
 
-### Live Demo
-<a href="file:///C:/Users/manod/OneDrive/Desktop/Portfolio_Project/main/index.html">Live Demo </a>
+> Describe between 1-3 key features of the application.
 
-### Getting Started
+- **[User Friendly and Simple]**
+- **[HTML used as a structure and CSS used for presentation]**
+- **[CSS provided the colour and the display features shown]**
 
-<p>To use this project, you'll need to have a copy on your device.
-To get your local copy up and running, follow the following steps:</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2>Prerequisites</h2>
-In order to run this project, you need to have it locally.<br>
+<!-- LIVE DEMO -->
 
-<h2>Set up</h2>
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> <a href="github.com/manodhiambo/Portfolio_project">Demo</a>
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To use this project, you'll need to have a copy on your device.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+In order to run this project, you need to have it locally
+
+### Setup
+
 Clone this repository to your desired folder:
-https://github.com/manodhiambo/Portfolio_Prpject
 
-<h2>Install</h2>
+
+```sh
+  cd my-folder
+  git clone git@github.com:manodhiambo/Portfolio_Project
+``
+
+### Install
+
+Install this project with:
+
 Once you have your local copy, access .html file
 
-<h2>Usage</h2>
-Run the project by executing .html file,
+### Usage
 
-<h2>Run Test</h2>
+To run the project, execute the following command:
+
+.html file
+
+### Run tests
+
+To run tests, run the following command:
+
 Any Browser will give you access to the contents of the project,Once executed, It will open your default browser automatically
 
-<h2>Deployment</h2>
+### Deployment
+
+You can deploy this project using:
+
 You can deploy this project using any deployment application
-### Authors
-Kevin Odhiambo
-<ul>
-<li><a href="https://www.github.com/manodhiambo">Github</a></li>
-<li><a href="https://www.twitter.com/KEVINOD71550785">Twitter</a></li>
-<li><a href="https://www.linkedin.com/in/manodhiambo">LinkedIn</a></li>
-</ul>
 
-### Future Features
-<p>Currently, the project is design for mobile device visibility, In future,  I will be adding features through CSS for Tables, Laptop and Desktop visibility.<br>
-More contents and styling are commng soon</p><br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Contributions
-Your are more than welcomed to contribute to this project.
+<!-- AUTHORS -->
 
-### Show your Support
-If you like this project, show your support by following me and giving me a star.
+## 👥 Authors <a name="authors"></a>
 
-### Acknowledgements
+👤 **Author1**
+
+<b>Kevin Odhiambo</b>
+- GitHub: [@manodhiambo](https://github.com/manodhiambo)
+- Twitter: [@KEVINOD71550785](https://twitter.com/KEVINOD71550785)
+- LinkedIn: [manodhiambo](https://linkedin.com/manodhiambo)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Tablets visiblity]**
+- [ ] **[Laptop visibility]**
+- [ ] **[Desktop visibility]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, show your support by following me and giving me a star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 This project is  catessy of Microverse. Through them, I have found a map to what I am supposed to learn
-to perfect my coding skills. I expect more from them as far as learning is concern. A great <b>Thank You to Microverse</b>
+to perfect my coding skills. I expect more from them as far as learning is concern. A great <b>Thank You to Microverse
+</b>
 
-### License
-This project is <a href="https://choosealicense.com/licenses/mit/">MIT</a><br>licesed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
