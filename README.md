@@ -48,9 +48,9 @@ You can deploy this project using any deployment application
 ### Authors
 Kevin Odhiambo
 <ul>
-<li>GitHub: <a href="github.com/manodhiambo"></a></li>
-<li>Twitter: <a href="twitter.com/KEVINOD71550785"></a></li>
-<li>LinkedIn: <a href="linkedin.com/in/manodhiambo"></a></li>
+<li>GitHub: <a href="https://www.github.com/manodhiambo"></a></li>
+<li>Twitter: <a href="https://www.twitter.com/KEVINOD71550785"></a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/manodhiambo"></a></li>
 </ul>
 
 ### Future Features
